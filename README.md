@@ -7,6 +7,7 @@ Python script that automates an API post request to check if an email has been r
 Ensure json, sys & requests library are installed
 
 `pip install requests sys json`
+
 `chmod +x check_email.py`
 
 `./check_email.py --email emailToBeChecked@domain.com`
