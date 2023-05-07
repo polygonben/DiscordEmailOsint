@@ -20,7 +20,7 @@ or
 
 ### How it works
 
-When registering on the discord website, and API POST call to discord.com/api/v9/auth/register is made with the following data fields:
+When registering on the discord website, an API POST call to discord.com/api/v9/auth/register is made with the following data fields:
 
 - email
 - username
