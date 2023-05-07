@@ -11,6 +11,7 @@ Ensure json, sys & requests library are installed
 `chmod +x check_email.py`
 
 `./check_email.py --email emailToBeChecked@domain.com`
+
 `./check_email.py --file emails.txt` 
 
 
