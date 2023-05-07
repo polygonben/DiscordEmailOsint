@@ -1,5 +1,5 @@
 # DiscordEmailOsint
-Python script that automates an API post request to check if an email has been registered with a given email.
+Python script that automates an API post request to check if an email has been registered with a given email. It can also take in a .txt file containing a list of email addresses with a new line for each.
 
 
 ### Usage
@@ -14,8 +14,9 @@ Ensure json, sys & requests library are installed
 
 `./check_email.py --file emails.txt` 
 
+or
 
-`python check_email.py emailToBeChecked@domain.com`
+`python check_email.py --email emailToBeChecked@domain.com`
 
 ### How it works
 
