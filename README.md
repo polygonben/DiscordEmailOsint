@@ -28,8 +28,7 @@ When registering on the discord website, and API POST call to discord.com/api/v9
 
 If the account is registered the following response will be returned:
 
-`
-{
+`{
 	"code": 50035,
 	"errors": {
 		"email": {
@@ -42,9 +41,7 @@ If the account is registered the following response will be returned:
 		}
 	},
 	"message": "Invalid Form Body"
-}
-
-`
+}`
 
 
 
